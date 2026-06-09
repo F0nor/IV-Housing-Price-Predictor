@@ -6,4 +6,8 @@ We out here trying to predict prices for housing and create a recommendation eng
     + Size
     + Space
     + Bathroom/Room count
-    + 
++ Apply decision tree and time series regression to predict based on the variables.
++ Visualize the variations in rent across all features.
++ Apply functionality for users to select their desired rental property and find an accurate expectation of the price range in the next year or two.
+
+
